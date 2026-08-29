@@ -1,4 +1,4 @@
-# DESAFIO 100 DIAS - Dev Fintech
+# DESAFIO 100 DIAS - Estudando 
 
 Plano dia a dia focado em **Java + Spring Boot** para se tornar desenvolvedor backend de fintech.
 
