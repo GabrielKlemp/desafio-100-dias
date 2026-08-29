@@ -1,6 +1,6 @@
 # DESAFIO 100 DIAS - Estudando 
 
-Plano dia a dia focado em **Java + Spring Boot** para se tornar desenvolvedor backend de fintech.
+Plano dia a dia focado em **Java + Spring Boot** para se tornar Desenvolvedor/Engenheiro de Software
 
 > 10 blocos de 10 dias | Entrega por bloco
 
